@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>D18678E8-9753-44D8-8EEF-A0575F761DEA</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Constellation-Canvas" transform="translate(-195.000000, -9099.000000)">
+            <g id="Emoticons" transform="translate(0.000000, 8988.000000)">
+                <g id="1F62F" transform="translate(196.000000, 112.000000)">
+                    <g id="color" fill-rule="nonzero">
+                        <circle id="Oval" fill="#FCEA2B" cx="23" cy="23" r="23"></circle>
+                        <ellipse id="Oval" fill="#FFFFFF" cx="23" cy="35.395" rx="5.2452" ry="6.5383"></ellipse>
+                    </g>
+                    <g id="line">
+                        <circle id="Oval" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="23" cy="23" r="23"></circle>
+                        <path d="M7.6948,14.2002 C8.4155,12.8145 9.6226,11.7461 11.0855,11.2002 C12.4907,10.5 14.106,10.3516 15.6157,10.7793" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M38.3052,14.2002 C36.7232,11.4278 33.5015,10.0303 30.396,10.7696" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <ellipse id="Oval" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="23" cy="35.395" rx="5.2452" ry="6.5383"></ellipse>
+                        <path d="M17,22 C17,23.6568 15.6552,25 14,25 C12.3447,25 11,23.6567 11,22 C11,20.3448 12.3447,19 14,19 C15.6552,19 17,20.3448 17,22" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M35,22 C35,23.6568 33.6553,25 32,25 C30.3447,25 29,23.6567 29,22 C29,20.3448 30.3447,19 32,19 C33.6553,19 35,20.3448 35,22" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

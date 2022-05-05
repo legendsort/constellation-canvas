@@ -1,0 +1,9 @@
+export const SIDEBAR_MAX_WIDTH = 300;
+export const SIDEBAR_MIN_WIDTH = 200;
+export const HEADER_HEIGHT = 92;
+export const HEADER_TITLE_HEIGHT = 70;
+export const MAIN_BORDER = '1px solid rgba(0, 0, 0, 0.12)';
+export const PROJECT_TITLE = 'CONSTELLATION CANVAS';
+export const LOGO_URL = '/assets/img/logo.png';
+export const WIDGET_IMG_BASE_URL = '/assets/img/widgets/';
+export const TRANSPARENT_IMAGE = '/assets/img/transparent.png';

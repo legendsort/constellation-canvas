@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>218075FB-00AA-46C6-9956-471A59E1FEA9</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Constellation-Canvas" transform="translate(-65.000000, -9415.000000)">
+            <g id="Emoticons" transform="translate(0.000000, 8988.000000)">
+                <g id="1F620" transform="translate(66.000000, 428.000000)">
+                    <g id="color" fill="#FCEA2B" fill-rule="nonzero">
+                        <path d="M23,0 C10.3177,0 0,10.3177 0,23 C0,35.6822 10.3177,46 23,46 C35.6822,46 46,35.6822 46,23 C46,10.3177 35.6822,0 23,0 Z" id="Path"></path>
+                    </g>
+                    <g id="line">
+                        <circle id="Oval" stroke="#000000" stroke-width="2" cx="23" cy="23" r="23"></circle>
+                        <path d="M17,19.9252 C17,21.5819 15.6552,22.9252 14,22.9252 C12.3447,22.9252 11,21.5819 11,19.9252 C11,18.2699 12.3447,16.9252 14,16.9252 C15.6552,16.9252 17,18.27 17,19.9252" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <path d="M35,19.9252 C35,21.5819 33.6553,22.9252 32,22.9252 C30.3447,22.9252 29,21.5819 29,19.9252 C29,18.2699 30.3447,16.9252 32,16.9252 C33.6553,16.9252 35,18.27 35,19.9252" id="Path" fill="#000000" fill-rule="nonzero"></path>
+                        <line x1="10" y1="11" x2="17" y2="15" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="36" y1="11" x2="29" y2="15" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M16.5,30.0000033 C17.7841,29.3624 20.4847,28.9692 23.3421,29.0019 C25.9656,29.0319 28.3318,29.4165 29.5,30.0000033" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

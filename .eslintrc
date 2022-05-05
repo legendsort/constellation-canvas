@@ -1,0 +1,11 @@
+{
+  "extends": "react-app",
+  "plugins": ["prettier"],
+  "rules": {
+    "react/display-name": 0,
+    "no-unused-vars": "warn",
+    "react/no-unknown-property": 0,
+    "react/prop-types": 0,
+    "react/react-in-jsx-scope": 0
+  }
+}

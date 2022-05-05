@@ -1,0 +1,16 @@
+{
+  "deploy": {
+    "dev": {
+      "key": "~/.ssh/constellation-canvas",
+      "user": "const",
+      "host": [
+        "64.225.21.226"
+      ],
+      "ref": "origin/master",
+      "repo": "git@bitbucket.org:voxsyncteam/constellationcanvas-frontend.git",
+      "path": "/home/const/frontend",
+      "post-setup": "git status; ls -la",
+      "post-deploy": "npm install; npm run build"
+    }
+  }
+}
